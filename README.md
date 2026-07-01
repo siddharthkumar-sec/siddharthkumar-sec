@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Siddharth 👋
 
-<!--
-**iamsiddharthsharma2-eng/iamsiddharthsharma2-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA student specializing in Cloud Computing & Security  
+☁️ Building toward a career as a Cloud Security Engineer  
+🌱 Currently learning: AWS fundamentals, Security+ concepts  
+🎯 Long-term goal: Cybersecurity Master's in Japan  
 
-Here are some ideas to get you started:
+### 🔧 What I'm working on
+- AWS free-tier security projects
+- CompTIA Security+ prep
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me
+- LinkedIn: [linkedin.com/in/siddharth-kumar-cloudsec](https://linkedin.com/in/siddharth-kumar-cloudsec)
