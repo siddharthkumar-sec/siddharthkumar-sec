@@ -2,7 +2,7 @@ Hi, I'm Siddharth Kumar 👋
 
 BCA Cybersecurity Student | Cybersecurity • Cloud • Technology
 
-I am currently building my foundation in cybersecurity and exploring how systems, networks, and cloud environments work — and how they can be secured.
+I’m building a strong foundation in cybersecurity by learning how systems, networks, and cloud environments work — and how they can be secured.
 
 🔐 Currently Learning
 
@@ -12,7 +12,7 @@ I am currently building my foundation in cybersecurity and exploring how systems
 - Python
 - Cloud Computing
 
-🛠️ What I'm Building
+🛠️ Building & Practicing
 
 - Python projects
 - Linux labs
@@ -26,4 +26,4 @@ Learning. Building. Securing.
 
 ---
 
-📫 Connect with me on LinkedIn
+🔗 Connect with me on LinkedIn
