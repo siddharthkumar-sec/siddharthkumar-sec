@@ -1,13 +1,29 @@
-# Hi, I'm Siddharth 👋
+Hi, I'm Siddharth Kumar 👋
 
-🎓 BCA student specializing in Cloud Computing & Security  
-☁️ Building toward a career as a Cloud Security Engineer  
-🌱 Currently learning: AWS fundamentals, Security+ concepts  
-🎯 Long-term goal: Cybersecurity Master's in Japan  
+BCA Cybersecurity Student | Cybersecurity • Cloud • Technology
 
-### 🔧 What I'm working on
-- AWS free-tier security projects
-- CompTIA Security+ prep
+I am currently building my foundation in cybersecurity and exploring how systems, networks, and cloud environments work — and how they can be secured.
 
-### 📫 Connect with me
-- LinkedIn: [linkedin.com/in/siddharth-kumar-cloudsec](https://linkedin.com/in/siddharth-kumar-cloudsec)
+🔐 Currently Learning
+
+- Cybersecurity Fundamentals
+- Computer Networking
+- Linux
+- Python
+- Cloud Computing
+
+🛠️ What I'm Building
+
+- Python projects
+- Linux labs
+- Networking projects
+- Cybersecurity experiments
+- Cloud security projects
+
+🎯 Current Focus
+
+Learning. Building. Securing.
+
+---
+
+📫 Connect with me on LinkedIn
