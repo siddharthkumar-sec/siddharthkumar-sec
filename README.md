@@ -44,7 +44,7 @@ Become a Cloud Security Engineer by building practical skills, earning industry 
 ## 📫 Connect with Me
 
 💼 LinkedIn:
-https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+www.linkedin.com/in/siddharth-kumar-cloudsec
 
 📧 Email:
 iamsiddharthsharma@gmail.com
