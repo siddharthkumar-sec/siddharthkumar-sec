@@ -1,29 +1,54 @@
-Hi, I'm Siddharth Kumar 👋
+# Hi, I'm Siddharth Kumar 👋
 
-BCA Cybersecurity Student | Cybersecurity • Cloud • Technology
+🎓 BCA Student specializing in Cloud Computing & Cybersecurity
 
-I’m building a strong foundation in cybersecurity by learning how systems, networks, and cloud environments work — and how they can be secured.
-
-🔐 Currently Learning
-
-- Cybersecurity Fundamentals
-- Computer Networking
-- Linux
-- Python
-- Cloud Computing
-
-🛠️ Building & Practicing
-
-- Python projects
-- Linux labs
-- Networking projects
-- Cybersecurity experiments
-- Cloud security projects
-
-🎯 Current Focus
-
-Learning. Building. Securing.
+I am currently building a strong foundation in Cloud Computing, Cybersecurity, Linux, Networking, and Python through hands-on practice and continuous learning.
 
 ---
 
-🔗 Connect with me on LinkedIn
+## 🚀 Current Focus
+
+- 🐍 Python
+- 🐧 Linux
+- 🌐 Computer Networking
+- ☁️ AWS Cloud
+- 🔐 Cybersecurity Fundamentals
+- 💻 Git & GitHub
+
+---
+
+## 🛠️ Currently Building
+
+- Linux Practice Labs
+- Python Scripts
+- Networking Notes & Labs
+- Cybersecurity Mini Projects
+- Cloud Learning Projects
+
+---
+
+## 📚 Learning Journey
+
+I believe in learning by building.
+
+This GitHub documents my progress throughout my BCA journey. Every repository reflects what I learn, practice, and improve over time.
+
+---
+
+## 🎯 Career Goal
+
+Become a Cloud Security Engineer by building practical skills, earning industry certifications, and contributing to real-world projects.
+
+---
+
+## 📫 Connect with Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME
+
+📧 Email:
+iamsiddharthsharma@gmail.com
+
+---
+
+> Learning. Building. Securing.
