@@ -212,11 +212,15 @@ My priority is to build strong fundamentals and practical engineering ability be
 
 <br/>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=siddharthkumar-sec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar-sec&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=888888" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthkumar-sec&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+<br/>
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthkumar-sec&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=C9D1D9&dates=888888" />
+<a href="https://github.com/siddharthkumar-sec">
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=38BDF8" />
+</a>
+
+</div>
 
 </div>
 
