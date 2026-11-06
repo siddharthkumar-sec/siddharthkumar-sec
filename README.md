@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:090E1A,45:142B4D,100:5427A8&text=SIDDHARTH%20KUMAR&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=CLOUD%20COMPUTING%20%7C%20CYBERSECURITY%20%7C%20ENGINEERING&descSize=13&descAlignY=60&animation=fadeIn" />
 
@@ -15,7 +16,11 @@
 
 ---
 
-## ◈ 01 — ABOUT ME
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=01+%E2%80%94+ABOUT+ME;Understanding+Systems.+Building+Knowledge." />
+
+</div>
 
 I am a BCA student specializing in **Cloud Computing & Security** at Amity University Online.
 
@@ -42,7 +47,13 @@ profile:
   long_term_goal: Cloud Security Engineer
 ```
 
-## ◈ 02 — TECHNICAL FOCUS
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=02+%E2%80%94+TECHNICAL+FOCUS;Learning+The+Technology+Stack" />
+
+</div>
 
 <div align="center">
 
@@ -57,17 +68,25 @@ profile:
 
 </div>
 
-## ◈ 03 — TECHNOLOGY ECOSYSTEM
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=03+%E2%80%94+TECHNOLOGY+ECOSYSTEM;Tools+For+Engineering+And+Innovation" />
+
+<br/>
 
 **PROGRAMMING**
 
 <img src="https://skillicons.dev/icons?i=python,c&theme=dark" />
 
+<br/>
+
 **SYSTEMS & DEVELOPMENT TOOLS**
 
 <img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" />
+
+<br/>
 
 **CLOUD & INFRASTRUCTURE INTERESTS**
 
@@ -77,7 +96,13 @@ profile:
 
 <sub>These icons represent technologies in my learning journey and areas of technical interest, not a claim of professional proficiency.</sub>
 
-## ◈ 04 — CURRENTLY BUILDING
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=04+%E2%80%94+CURRENTLY+BUILDING;Learning.+Experimenting.+Creating." />
+
+</div>
 
 <table>
 <tr>
@@ -130,9 +155,13 @@ Documenting academic resources, experiments, and technical progress.
 </tr>
 </table>
 
-## ◈ 05 — ENGINEERING PHILOSOPHY
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=05+%E2%80%94+ENGINEERING+PHILOSOPHY;Understand.+Experiment.+Build.+Improve." />
+
+<br/>
 
 <img src="https://img.shields.io/badge/01-UNDERSTAND-0EA5E9?style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/02-EXPERIMENT-6366F1?style=for-the-badge&labelColor=0D1117" />
@@ -150,9 +179,11 @@ My approach:
 - **Build:** Turn knowledge into working projects.
 - **Improve:** Review, document, and refine my work.
 
-## ◈ 06 — CAREER DIRECTION
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=06+%E2%80%94+CAREER+DIRECTION;Engineering+Towards+Cloud+Security" />
 
 ### CLOUD SECURITY ENGINEER
 
@@ -173,9 +204,13 @@ I am gradually working towards developing expertise in:
 
 My priority is to build strong fundamentals and practical engineering ability before moving towards advanced specialization.
 
-## ◈ 07 — GITHUB ACTIVITY
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=07+%E2%80%94+GITHUB+ACTIVITY;Consistency+In+Every+Commit" />
+
+<br/>
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=siddharthkumar-sec&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&rank_icon=github" />
 
@@ -185,9 +220,11 @@ My priority is to build strong fundamentals and practical engineering ability be
 
 </div>
 
-## ◈ 08 — CONNECT
+---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=08+%E2%80%94+CONNECT;Ideas+Grow+Through+Collaboration" />
 
 ### LET'S CONNECT & LEARN TOGETHER
 
